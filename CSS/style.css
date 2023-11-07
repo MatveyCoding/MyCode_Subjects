@@ -1,0 +1,206 @@
+
+html,body
+{
+  height: 100%;
+}
+.header
+{
+    background-color: rgb(113 133 56);
+}
+.container
+{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.nav
+{
+   display:flex;
+  align-items: center;
+}
+.navigation_menu
+{
+    display: flex;
+    list-style: none;
+    gap: 350px;
+    margin: 0 auto;
+    
+    
+}
+.menu_item
+{
+  padding-right: 30px;
+  
+}
+a
+{
+  text-decoration: none;
+  color:rgb(245 255 245 / 78%); 
+  font-size: 20px; 
+  font-weight: 400;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.headline
+{
+  padding-top: 40px;
+  text-align: center;
+  background-color:#43474f;
+}
+h1
+{
+  padding-bottom: 20px;
+  color:rgb(200 215 67 / 78%);
+  text-transform: uppercase;
+  margin: 0;
+}
+.Bitok
+{
+  filter: drop-shadow(5px 5px 5px #222);
+  width: 50%;
+}
+h2
+{
+  color:#69cb34;
+  font-size: 40px;
+  margin: 0;
+}
+.info_bar
+{
+  padding-top: 130px;
+  background-color: #43474f;
+}
+p
+{
+  max-width: 800px;
+  font-size: 30px;
+}
+
+.second_paragraph
+{
+  padding-bottom:20px ;
+  margin-bottom: 0;
+}
+.About_Us
+{
+  color: #69cb34;
+  display: flex;
+}
+.img1
+{
+   max-width: 420px;
+  max-height: 250px;
+   padding-bottom: 50px;
+}
+.choose
+{
+  
+  background-color: #43474f;
+}
+.choose_flex
+{
+  padding-left:300px;
+
+  text-align: center;
+  display: flex;
+ padding-top:80px;
+}
+.CryptoLogo
+{
+  display: block;
+  max-width: 160px;
+  max-height: 50px;
+}
+.ChooseLink
+{
+  font-weight: 700;
+  color: #69cb34;
+}
+.chosePack
+{
+  
+  padding-right: 100px;
+  max-width: 500px;
+
+}
+.Choose_title
+{
+  text-align: center;
+}
+footer
+{
+  
+  width:100%;
+  padding-top: 150px;
+  background-color: #43474f;
+  
+}
+.footer_ul
+{
+  max-width: 1200px;
+  gap: 620px;
+  display: flex;
+  padding-top: 20px;
+  margin: 0 auto;
+  list-style: none;
+ 
+}
+.footer_list_item
+{
+  color: #69cb34;
+  font-size: 20px;
+}
+hr
+{
+  background-color:#69cb34;
+   height: 1px; 
+   border: 0;
+}
+.classimg
+{
+  border-radius: 20px 20px 20px 20px;
+  margin-left: 100px;
+  height: 150px;
+  max-width: 200px;
+}
+.Coin_class_choose
+{
+ padding-top: 100px;
+  display: flex;
+  background-color: #43474f;
+}
+.header_class
+{
+  padding-left:510px;
+  padding-top: 60px;
+  background-color: #43474f;
+}
+.link_title2
+{
+  margin-left: 125px;
+  max-width: 150px;
+  text-align: center;
+  color: aqua;
+}
+
+.link_title1
+{
+  margin-left: 125px;
+  max-width: 150px;
+  text-align: center;
+  color: aqua;
+}
+
+.link_title3
+{
+  margin-left: 72px;
+  max-width: 150px;
+  text-align: center;
+  color: aqua;
+}
+.link_title4
+{
+  margin-left: 105px;
+  max-width: 150px;
+  text-align: center;
+  color: aqua;
+}
