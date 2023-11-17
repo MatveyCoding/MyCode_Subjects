@@ -288,3 +288,15 @@ hr
   color: #69cb34;
 
 }
+.wrapper
+{
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.Content_main 
+{
+  width: 100%;
+  
+  flex-grow: 1;
+}
