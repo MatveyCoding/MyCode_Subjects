@@ -270,4 +270,21 @@ hr
   flex-grow: 1;
   height: auto;
 }
+.escape
+{
+  max-width: 200px;
+  position: relative;
+  left:85%;
+  top: 50px;
+}
+.escape_link
+{
+  font-size: 100px;
+  box-sizing: border-box;
 
+}
+.escape_link:hover
+{
+  color: #69cb34;
+
+}
