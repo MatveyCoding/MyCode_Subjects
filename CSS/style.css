@@ -173,19 +173,24 @@ hr
 .classimg
 {
   border-radius: 20px 20px 20px 20px;
-  margin-left: 100px;
+  margin-left: 95px;
   height: 150px;
   max-width: 200px;
 }
 .Coin_class_choose
 {
- padding-top: 100px;
+  padding-right: 100px;
+  align-items: center;
+  justify-content: center;
+ padding-top: 5%;
   display: flex;
   background-color: #43474f;
 }
 .header_class
 {
-  padding-left:510px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding-top: 60px;
   background-color: #43474f;
 }
@@ -297,6 +302,6 @@ hr
 .Content_main 
 {
   width: 100%;
-  
+  background-color: #43474f;
   flex-grow: 1;
 }
