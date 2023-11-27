@@ -1,6 +1,7 @@
 
 html,body
 {
+  font-family: 'Roboto Mono', monospace;
   height: 100%;
   
 }
@@ -17,6 +18,7 @@ html,body
 }
 .header
 {
+  font-family: 'Roboto Mono', monospace;
     background-color: rgb(113 133 56);
 }
 .container
@@ -63,6 +65,7 @@ a
 
 h1
 {
+  padding-left: 23px;
   padding-bottom: 20px;
   color:rgb(200 215 67 / 78%);
   text-transform: uppercase;
@@ -143,7 +146,7 @@ p
 }
 footer
 {
-  
+  font-family: 'Roboto Mono', monospace;
   width:100%;
   padding-top: 150px;
   background-color: #43474f;
@@ -204,7 +207,7 @@ hr
 
 .link_title1
 {
-  margin-left: 125px;
+  margin-left: 120px;
   max-width: 150px;
   text-align: center;
   color: aqua;
@@ -219,7 +222,7 @@ hr
 }
 .link_title4
 {
-  margin-left: 105px;
+  margin-left: 100px;
   max-width: 150px;
   text-align: center;
   color: aqua;
@@ -233,6 +236,8 @@ hr
 }
 .Coins_info_Link
 {
+  font-family: 'Roboto Mono', monospace;
+  color: white;
   height:50px;
   display: block;
   font-size: 30px;
@@ -304,4 +309,31 @@ hr
   width: 100%;
   background-color: #43474f;
   flex-grow: 1;
+}
+.about_us_list
+{
+  padding-top: 50px;
+  list-style: none;
+}
+
+.about_us_header
+{
+  padding-top: 30px;
+  text-align: center;
+}
+.about_us_item
+{
+  
+
+  color: #69cb34;
+  padding-top: 30px;
+}
+
+.main
+{
+  font-family: 'Roboto Mono', monospace;
+  background-color: #43474f;
+}
+.span_text{
+  color: white;
 }
