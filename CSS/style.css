@@ -337,3 +337,38 @@ hr
 .span_text{
   color: white;
 }
+.feedback{
+  margin-top: 50px;
+  margin-left: 40px;
+}
+.feedback_button
+{
+  margin-top: 20px;
+}
+.input_header
+{
+  font-size: 15px;
+}
+input{
+  display: block;
+}
+.review
+{
+  padding-top: 50px;
+  max-width: 1000px;
+
+  word-wrap: break-word;
+}
+.reviews_container
+{
+  
+  max-width: 1000px;
+}
+button
+{
+  color: #69cb34;
+  background-color: #43474f;
+}
+.feedback_title{
+  color: #69cb34;
+}
